@@ -1,4 +1,4 @@
-### Bài tập lớn môn phân tích chuỗi thời gian
+### Bài tập lớn môn phân tích chuỗi thời gian: Dự báo giá vàng
 1. Cài đặt môi trường
 ``` python3 -m venv venv ```
 2. Active môi trường
